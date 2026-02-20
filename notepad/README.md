@@ -30,7 +30,7 @@ JSON (for data storage)
 
 Clone the repository:
 
-git clone https://github.com/sharifi-dev901/notes_app.git
+git clone https://github.com/sharifi-dev901/StellarNotes.git
 
 
 Navigate to the project folder:
@@ -51,5 +51,6 @@ notes.json – storage file for notes
 💡 Notes
 
 Make sure notes.json is writable and in the same folder as notes.py.
+
 
 Index validation is handled, so entering invalid numbers for deleting or marking notes won’t crash the app.
